@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **cb010982/CB010982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
