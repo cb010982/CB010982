@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 👋 Aspiring Full Stack Engineer | Passionate about Web Development, Artificial Intelligence , and UI/UX | Eager to Explore Latest Tech Trends 🚀
 Intrests : Web development, Mobile development, Artificial Intelligence, UI/UX , Project Management Methodologies, Laravel
 
-Mostly done projects in Laravel, HTML , CSS, PHP, JavaScript, Bootstrap and React
+Mostly done projects in Laravel, HTML , CSS, PHP, JavaScript, Bootstrap, Flutter, Java and C# and React
 
 #FullstackDevelopment #TechEnthusiast #WebDevelopment #MobileDevelopment #AI #ProjectManagementMethodologies
