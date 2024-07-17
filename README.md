@@ -21,5 +21,5 @@ Mostly done projects in Laravel, HTML , CSS, PHP, JavaScript, Bootstrap, Flutter
 
 #FullstackDevelopment #TechEnthusiast #WebDevelopment #MobileDevelopment #AI #ProjectManagementMethodologies
 
-<img src="https://skillicons.dev/icons?i=js,html,css,java,python,php" alt="Languages" /> <img src="https://skillicons.dev/icons?i=laravel,bootstrap,express,mongodb,mysql" alt="Packages and Frameworks" /> <img src="https://skillicons.dev/icons?i=firebase,git,selenium,figma" alt="Other" /> <img src="https://skillicons.dev/icons?i=vscode,idea" alt="IDE's" />
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python,php" alt="Languages" /> <img src="https://skillicons.dev/icons?i=laravel,bootstrap,express,mongodb,mysql" alt="Packages and Frameworks" /> <img src="https://skillicons.dev/icons?i=firebase,git,selenium,figma,github" alt="Other" /> <img src="https://skillicons.dev/icons?i=vscode,idea" alt="IDE's" />
 
